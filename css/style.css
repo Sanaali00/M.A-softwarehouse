@@ -111,28 +111,17 @@ h6 {
   }
 }
 .logo-img {
-    max-width: 200px; /* Adjust as needed */
+    max-width: 2250px;
     height: auto;
 }
 
-.navbar-brand img {
-    width: auto !important;
-    height: auto !important;
-    max-height: 50px; /* Adjust as needed */
-}
-.scrollto {
-    display: flex;
-    align-items: center; /* Align logo with text */
-}
 .logo-text {
     font-size: 20px;
     font-weight: bold;
-    margin-left: 15px; /* Add space between logo and text */
-   color: black; /* Adjust color */
-      vertical-align: middle;
-
+    color: black; /* Adjust color */
+    margin-left: 10px;
+    vertical-align: middle;
 }
-
 
 
 #header {
@@ -170,7 +159,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 7px 0;
-  max-height: 66px;
+  max-height: 26px;
 }
 
 .main-pages {
