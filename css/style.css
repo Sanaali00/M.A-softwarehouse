@@ -111,9 +111,15 @@ h6 {
   }
 }
 .logo-img {
-    max-width: 2250px;
+    max-width: 150px; /* Adjust as needed */
     height: auto;
 }
+.navbar-brand img {
+    width: auto !important;
+    height: auto !important;
+    max-height: 50px; /* Adjust as needed */
+}
+
 
 .logo-text {
     font-size: 20px;
