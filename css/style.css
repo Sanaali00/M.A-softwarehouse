@@ -111,13 +111,8 @@ h6 {
   }
 }
 .logo-img {
-    max-width: 250px; /* Adjust as needed */
-    height: 250px;
-}
-
-.scrollto {
-    display: flex;
-    align-items: center;
+    max-width: 200px; /* Adjust as needed */
+    height: 200px;
 }
 
 .navbar-brand img {
